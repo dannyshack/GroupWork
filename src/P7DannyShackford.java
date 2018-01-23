@@ -9,6 +9,7 @@ public class P7DannyShackford {
         elements(array);
         System.out.println("The average is "+average(array));
         list(array);
+        //h
         
     }
     public static void elements(double[] array) {
